@@ -1,2 +1,2 @@
-# learning_C_projects
+# Learning C Projects
 My implementations of simple stuff in C
